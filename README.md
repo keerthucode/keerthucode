@@ -19,6 +19,5 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keerthucode&show_icons=true&locale=en" alt="keerthucode" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthucode&" alt="keerthucode" /></p>
