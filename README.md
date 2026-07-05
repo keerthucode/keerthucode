@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nair Keerthana</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
 
 
 - 🌱 I’m currently learning **full stack development courses**
 
-- 💬 Ask me about **html,css,javascript,react(basic)**
+- 💬 Ask me about **nodejs,mysql,expressjs(basic)**
 
 - 📫 How to reach me **nairkeerthana101@gmail.com**
 
