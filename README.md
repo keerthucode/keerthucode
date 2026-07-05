@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **full stack development courses**
 
-- 💬 Ask me about **nodejs,mysql,expressjs(basic)**
+- 💬 Ask me about **nodejs,mysql,expressjs,api**
 
 - 📫 How to reach me **nairkeerthana101@gmail.com**
 
